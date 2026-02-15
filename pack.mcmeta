@@ -1,0 +1,20 @@
+{
+  "pack": {
+    "pack_format": 75,
+    "min_format": 75,
+    "max_format": 75,
+    "description": [
+      {
+        "text": "Myriad but it's Programmer Art",
+        "color": "#008725"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "0.1",
+        "color": "green"
+      }
+    ]
+  }
+}
